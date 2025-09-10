@@ -20,7 +20,7 @@ You have two options to get the project files. Choose one.
 
 **Option B: Download ZIP File**
 
-1.  Go to the [project's GitHub page](https://www.google.com/search?q=https://github.com/sangrechy/smartwaste_ai).
+1.  Go to the [project's GitHub page](https://github.com/sangrechy/smartwaste_ai).
 2.  Click the green **"Code"** button, then click **"Download ZIP"**.
 3.  Find the downloaded file and **extract it**.
 
